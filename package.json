@@ -19,5 +19,18 @@
   },
   "engines": {
     "node": ">=22"
-  }
+  },
+  "version": "1.0.0",
+  "description": "A local organization wants to create an application that allows them to manage their employees. You are tasked with creating a proof-of-concept API using placeholder data.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajharris02/employee-directory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajharris02/employee-directory/issues"
+  },
+  "homepage": "https://github.com/ajharris02/employee-directory#readme"
 }
